@@ -1,4 +1,4 @@
-![Khalid1sey_banner](https://imgur.com/a/ywsd9hf)
+![Khalid1sey_banner](https://github.com/khalid1sey/khalid1sey/blob/main/Screenshot%20(40).png)
 <h1 align="center">Hi <img src="https://imgur.com/a/ywsd9hf" width="30px">, I'm  Khalid</h1>
 
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
