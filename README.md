@@ -1,5 +1,5 @@
 ![Khalid1sey_banner](https://github.com/khalid1sey/khalid1sey/blob/main/Screenshot%20(40).png)
-<h1 align="center">Hi <img src="https://imgur.com/a/ywsd9hf" width="30px">, I'm  Khalid</h1>
+<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm  Khalid</h1>
 
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
@@ -38,7 +38,7 @@
        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid1sey&show_icons=true&locale=en" alt="khalid1sey" /></p>
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&" alt="khalid1sey" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="khalid1sey" /></p>
     </td>
   </tr>
 
