@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
