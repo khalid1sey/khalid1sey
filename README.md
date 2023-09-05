@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I'm currently working on <b>a strategy to seamlessly incorporate software engineering principles into the realm of Civil Engineering.</b></p>
-      <p>- 🌱 I’m currently studying <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/ target="_blank">University of Ibadan</a></p>
+      <p>- 🔭 I'm currently working on <b>My Problem Solving </b></p>
+      <p>- 🌱 I’m currently studying <b>Software Engineering</b> at the <a href=https://alx.com target="_blank">Alx Softwre Engineering</a></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email target="_blank">aysuarex@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:lilahseyfu@gmail.com alt=email target="_blank">lilahseyfu@gmail.com</a></b></p>
+<!--       <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p> -->
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
@@ -29,18 +29,26 @@
 
 <p align="left"> <a href="https://twitter.com/lilahseyfu" target="blank"><img src="https://img.shields.io/twitter/follow/lilahseyfu?logo=twitter&style=for-the-badge" alt="lilahseyfu" /></a> </p>
 
-- 📫 How to reach me **lilahseyfu@gmail.com**
 
-
-<h3 align="left">Languages and Tools:</h3>
+<table>
+  <tr>
+    <td>
+       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid1sey&show_icons=true&locale=en&layout=compact" alt="khalid1sey" /></p>
+    </td>
+    <td>
+       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid1sey&show_icons=true&locale=en" alt="khalid1sey" /></p>
+    </td>
+    <td>
+      <a href="https://github.com/Aysuarex"><img alt="Ayomide Suara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysuarex&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/khalid1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khalid1" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid1sey&show_icons=true&locale=en&layout=compact" alt="khalid1sey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid1sey&show_icons=true&locale=en" alt="khalid1sey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&" alt="khalid1sey" /></p>
 
