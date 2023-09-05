@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/khalid1sey/khalid1sey/blob/main/Screenshot%20(40).png" align="center">
 </p>
+
 <h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm  Khalid</h1>
 
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
