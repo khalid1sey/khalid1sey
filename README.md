@@ -39,7 +39,7 @@
        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid1sey&show_icons=true&locale=en" alt="khalid1sey" /></p>
     </td>
     <td>
-      <a href="https://github.com/Aysuarex"><img alt="Ayomide Suara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysuarex&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&" alt="khalid1sey" /></p>
     </td>
   </tr>
 </table>
@@ -48,9 +48,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/khalid1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khalid1" /></a></p><br><br>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&" alt="khalid1sey" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid1sey" alt="khalid1sey" /></a> </p>
 
