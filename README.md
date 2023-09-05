@@ -25,7 +25,6 @@
     </td>
   </tr>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid1sey&label=Profile%20views&color=0e75b6&style=flat" alt="khalid1sey" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lilahseyfu" target="blank"><img src="https://img.shields.io/twitter/follow/lilahseyfu?logo=twitter&style=for-the-badge" alt="lilahseyfu" /></a> </p>
 
@@ -43,6 +42,7 @@
     </td>
   </tr>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid1sey&label=Profile%20views&color=0e75b6&style=flat" alt="khalid1sey" /> </p>
 
 
 <h3 align="left">Support:</h3>
