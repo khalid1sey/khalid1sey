@@ -49,6 +49,6 @@
 
 
 <h3 align="right">Support:</h3>
-<p><a href="https://ko-fi.com/khalid1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khalid1" /></a></p><br><br>
+<p align="right"><a href="https://ko-fi.com/khalid1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khalid1" /></a></p><br><br>
 
 
