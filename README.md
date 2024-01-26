@@ -36,11 +36,12 @@
 <table>
   <tr>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid1sey&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" alt="khalid1sey" /></p>
-    </td>
-       <td>
             <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid1sey&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="khalid1sey" /></p>
     </td>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid1sey&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" alt="khalid1sey" /></p>
+    </td>
+      
   </tr>
 
 </table>
