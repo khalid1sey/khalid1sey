@@ -45,7 +45,7 @@
   </tr>
 
 </table>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid1sey&label=Profile%20views&color=0e75b6&style=flat" alt="khalid1sey" /> </p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=khalid1sey&label=Profile%20views&color=0e75b6&style=flat" alt="khalid1sey" /> </p>
 
 
 <h3 align="left">Support:</h3>
