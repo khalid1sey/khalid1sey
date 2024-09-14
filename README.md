@@ -1,8 +1,6 @@
 
  ![Khalid1sey_banner](https://github.com/khalid1sey/khalid1sey/blob/main/Screenshot%20(40).png)
 <p align="center">
-<img src="https://github.com/khalid1sey/khalid1sey/blob/main/Screenshot%20(40).png" align="center">
-</p>
 
 <h1 align="center">Hi , I'm  Khalid</h1>
 
